@@ -11,6 +11,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doidori&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doidori&layout=compact)
+<!-- layout 찾아보기 -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Doidori&color=blue)
 
