@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=test&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doidori&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doidori&layout=compact)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=test&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Doidori&color=blue)
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
