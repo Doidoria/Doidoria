@@ -43,7 +43,7 @@
 <div align="center">
 
 ### 🔥 GitHub Stats (Dark Tokyo)
-<img src="https://github-readme-stats.vercel.app/api?username=Doidoria&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+![ stats ](https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github)
 
 ### 🌓 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="170" />
