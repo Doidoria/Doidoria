@@ -46,13 +46,13 @@
 ![ stats ](https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github)
 
 ### 🌓 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+![ langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🧬 Trophy Showcase (Dark Premium)
 <img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
 
 ### 🐍 Contribution Snake
-<img src="https://github.com/Doidoria/Doidoria/blob/output/github-contribution-grid-snake-dark.svg" />
+![snake](https://github.com/Doidoria/Doidoria/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌙 Profile 3D Metrics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doidoria&theme=tokyonight" />
