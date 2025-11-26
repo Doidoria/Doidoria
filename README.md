@@ -1,18 +1,88 @@
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAsuXxjWNfaT0LiY8Nt2QPIe_BK8plquIgSw&s" width='500px'/>
-</div>
+<!--  --------------------------------------  -->
+<!--              💠 HEADER BANNER           -->
+<!--  --------------------------------------  -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:2b2b2b&height=230&text=Doidoria&fontColor=ffffff&animation=twinkling&fontSize=72&fontAlignY=40" />
+  
+  <h3>🌑 Welcome to my Black-Tone GitHub Space 🌑</h3>
+  <p>꾸준히 성장하고, 계속 만들고, 멈추지 않는 개발자</p>
+
+  <br>
+
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doidoria&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact)
-<!-- layout 찾아보기 -->
+## 🧠 About Me
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Doidoria&color=blue)
+- 🔥 새로운 기술을 탐구하고 코드로 구현하는 걸 좋아합니다  
+- 🚀 Web · AI · System Flow & Optimization 관심  
+- 🎯 목표: 한 단계 더 발전된 나를 만드는 것  
+- 🐾 기록과 성장을 즐기며 나만의 개발 세계를 확장하는 중  
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Category | Stack |
+|---|---|
+| 📌 Language | ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript) ![TS](https://img.shields.io/badge/TypeScript-000?logo=typescript) |
+| ⚙ Web / App | ![React](https://img.shields.io/badge/React-000?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Node](https://img.shields.io/badge/Node.js-000?logo=node.js) |
+| 🔧 Tools & DevOps | ![Git](https://img.shields.io/badge/Git-000?logo=git) ![Docker](https://img.shields.io/badge/Docker-000?logo=docker) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) |
+
+</div>
+
+---
+
+## 📊 Stats & Contribution
+
+<div align="center">
+
+### 🔥 GitHub Stats (Dark Tokyo)
+<img src="https://github-readme-stats.vercel.app/api?username=Doidoria&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+### 🌓 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+### 🧬 Trophy Showcase (Dark Premium)
+<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+
+### 🐍 Contribution Snake
+<img src="https://github.com/Doidoria/Doidoria/blob/output/github-contribution-grid-snake-dark.svg" />
+
+### 🌙 Profile 3D Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doidoria&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doidoria&theme=tokyonight" width="49.4%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doidoria&theme=tokyonight" width="49.4%" />
+
+### 💠 Contribution Calendar Graph (Shadow Style)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doidoria&theme=react-dark&hide_border=true&area=true" />
+
+---
+
+### 🎮 Dynamic & Fun
+
+<img src="https://github.com/Doidoria.png?size=140" align="center" style="border-radius: 50%;" />
+
+> _“Keep creating, keep pushing, keep evolving.”_
+
+</div>
+
+---
+
+## 📫 Contact
+
+📥 Email → _your@email.com_  
+🌐 Portfolio → _작성 예정_  
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:171717&height=120&section=footer" />
+
+</div>
