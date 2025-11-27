@@ -1,6 +1,5 @@
 <table align="center" width="100%" style="border-collapse:collapse; margin:0; padding:0;">
 
-
 <!-- ====================== HEADER ====================== -->
 <tr>
 <td colspan="3" align="center" style="padding:0; margin:0;">
@@ -24,22 +23,34 @@ letter-spacing:1px;">
 </td>
 </tr>
 
-
-
-
 <!-- ======================================================== -->
 <!--                       TECH STACK                         -->
 <!-- ======================================================== -->
 <tr>
 <td colspan="3" align="center" style="padding:10px 0;">
 <div style="
-font-size:23px;
-font-weight:800;
-color:#FF00DD;
-padding:6px 0;
-letter-spacing:1px;
-text-shadow:0 0 6px #FF00DD,0 0 12px #FF00DD,0 0 20px #FF00DD;">
-✦ ✦  TECH STACK  ✦ ✦
+  font-size:28px;
+  font-weight:900;
+  padding:14px 0;
+  margin:10px 0;
+  border-radius:8px;
+  letter-spacing:3px;
+  text-align:center;
+  background:#0a001a;
+  background:linear-gradient(90deg,#0a001a,#7f00ff88,#00e7ff88,#0a001a);
+  color:#ff00e6;
+  text-shadow:
+      0 0 5px #ff00e6,
+      0 0 12px #ff00e6,
+      0 0 20px #00eaff,
+      0 0 35px #00eaff;
+  border:3px solid #ff00e6;
+  box-shadow:
+      0 0 10px #ff00e6,
+      0 0 20px #00eaff,
+      inset 0 0 10px #ff00e6;
+">
+  ✦✦ TECH STACK ✦✦
 </div>
 </td>
 </tr>
@@ -61,9 +72,6 @@ text-shadow:0 0 6px #FF00DD,0 0 12px #FF00DD,0 0 20px #FF00DD;">
 <img src="https://skillicons.dev/icons?i=docker,aws,nginx,jenkins,python" height="45" style="filter: drop-shadow(0 0 10px #8A2FFF);" />
 </td>
 </tr>
-
-
-
 
 <!-- ======================================================== -->
 <!--                   GITHUB PERFORMANCE                      -->
@@ -102,19 +110,12 @@ text-shadow:0 0 6px #FF00DD,0 0 12px #FF00DD,0 0 20px #FF00DD;">
 <!-- 콘텐츠도 동일하게 2칸 병합 → 1칸 -->
 <tr>
   <td colspan="2" align="center" style="padding:10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true"
-         height="170">
+    <img src="https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true" height="170">
   </td>
-
   <td align="center" style="padding:10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true"
-         height="170">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="170">
   </td>
 </tr>
-
-
-
-
 
 <!-- ======================================================== -->
 <!--                      ACHIEVEMENTS                         -->
@@ -139,9 +140,6 @@ text-shadow:0 0 6px #8A2FFF,0 0 12px #8A2FFF,0 0 20px #8A2FFF;">
 </td>
 </tr>
 
-
-
-
 <!-- ======================================================== -->
 <!--                 CONTRIBUTION SNAKE                        -->
 <!-- ======================================================== -->
@@ -165,9 +163,6 @@ text-shadow:0 0 6px #39FF14,0 0 12px #39FF14,0 0 20px #39FF14;">
 </td>
 </tr>
 
-
-
-
 <!-- ======================================================== -->
 <!--                     ACTIVITY GRAPH                        -->
 <!-- ======================================================== -->
@@ -190,9 +185,6 @@ text-shadow:0 0 6px #FF00AA,0 0 12px #FF00AA,0 0 20px #FF00AA;">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doidoria&theme=react-dark&hide_border=true&area=true&line=00F0FF&point=FF00AA" width="96%">
 </td>
 </tr>
-
-
-
 
 <!-- ======================================================== -->
 <!--                     PROFILE DYNAMICS                      -->
@@ -221,9 +213,6 @@ text-shadow:0 0 6px #00E7FF,0 0 12px #00E7FF,0 0 20px #00E7FF;">
 | ![](https://img.shields.io/badge/Snake-AutoRefresh-00E7FF?style=for-the-badge) | Snake |
 
 </td></tr>
-
-
-
 
 <!-- ======================================================== -->
 <!--                         FOOTER                            -->
