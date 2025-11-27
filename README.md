@@ -6,52 +6,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A001A,50:7F00FF,100:00F0FF&text=Doidoria&fontColor=E6F7FF&fontSize=75&animation=twinkling"
      width="100%" style="display:block; padding:0; margin:0;"/>
-
-<div style="
-font-size:20px;
-padding:8px 22px;
-border-radius:10px;
-background:rgba(0,0,0,0.40);
-border:1px solid rgba(0,255,255,0.6);
-box-shadow:0 0 12px #00eaff, inset 0 0 14px rgba(0,255,255,0.3);
-color:#CCFFFF;
-margin-top:-15px;
-font-weight:600;
-letter-spacing:1px;">
-</div>
-
 </td>
 </tr>
-
+<tr>
+<td colspan="3" align="center"></td>
+</tr>
 <!-- ======================================================== -->
 <!--                       TECH STACK                         -->
 <!-- ======================================================== -->
 <tr>
-<td colspan="3" align="center" style="padding:10px 0;">
-<div style="
-  font-size:28px;
-  font-weight:900;
-  padding:14px 0;
-  margin:10px 0;
-  border-radius:8px;
-  letter-spacing:3px;
-  text-align:center;
-  background:#0a001a;
-  background:linear-gradient(90deg,#0a001a,#7f00ff88,#00e7ff88,#0a001a);
-  color:#ff00e6;
-  text-shadow:
-      0 0 5px #ff00e6,
-      0 0 12px #ff00e6,
-      0 0 20px #00eaff,
-      0 0 35px #00eaff;
-  border:3px solid #ff00e6;
-  box-shadow:
-      0 0 10px #ff00e6,
-      0 0 20px #00eaff,
-      inset 0 0 10px #ff00e6;
-">
-  ✦✦ TECH STACK ✦✦
-</div>
+<td colspan="3" align="center">
+     <div>
+          ✦✦ TECH STACK ✦✦
+     </div>
 </td>
 </tr>
 
@@ -72,26 +39,16 @@ letter-spacing:1px;">
 <img src="https://skillicons.dev/icons?i=docker,aws,nginx,jenkins,python" height="45" style="filter: drop-shadow(0 0 10px #8A2FFF);" />
 </td>
 </tr>
+<tr>
+<td colspan="3" align="center" style="padding:10px 0;"></td>
+</tr>
 
 <!-- ======================================================== -->
 <!--                   GITHUB PERFORMANCE                      -->
 <!-- ======================================================== -->
 <tr>
   <td colspan="3" align="center" style="padding:0; margin:0;">
-    <div style="
-      font-size:23px;
-      font-weight:900;
-      padding:10px 0;
-      color:#00E7FF;
-      letter-spacing:2px;
-      text-shadow:
-        0 0 6px #00E7FF,
-        0 0 12px #00E7FF,
-        0 0 22px #00E7FF,
-        0 0 40px rgba(0,255,255,0.8);
-      border-bottom:1px solid rgba(0,255,255,0.25);
-      border-top:1px solid rgba(0,255,255,0.15);
-    ">
+    <div>
       ✦✦ GITHUB PERFORMANCE ✦✦
     </div>
   </td>
@@ -122,15 +79,9 @@ letter-spacing:1px;">
 <!-- ======================================================== -->
 <tr>
 <td colspan="3" align="center" style="padding:8px 0;">
-<div style="
-font-size:23px;
-font-weight:800;
-color:#8A2FFF;
-padding:6px 0;
-letter-spacing:1px;
-text-shadow:0 0 6px #8A2FFF,0 0 12px #8A2FFF,0 0 20px #8A2FFF;">
-✦ ✦  ACHIEVEMENTS  ✦ ✦
-</div>
+     <div>
+          ✦ ✦  ACHIEVEMENTS  ✦ ✦
+     </div>
 </td>
 </tr>
 
@@ -145,15 +96,9 @@ text-shadow:0 0 6px #8A2FFF,0 0 12px #8A2FFF,0 0 20px #8A2FFF;">
 <!-- ======================================================== -->
 <tr>
 <td colspan="3" align="center" style="padding:8px 0;">
-<div style="
-font-size:23px;
-font-weight:800;
-color:#39FF14;
-padding:6px 0;
-letter-spacing:1px;
-text-shadow:0 0 6px #39FF14,0 0 12px #39FF14,0 0 20px #39FF14;">
-✦ ✦  CONTRIBUTION SNAKE  ✦ ✦
-</div>
+     <div>
+          ✦ ✦  CONTRIBUTION SNAKE  ✦ ✦
+     </div>
 </td>
 </tr>
 
@@ -168,15 +113,9 @@ text-shadow:0 0 6px #39FF14,0 0 12px #39FF14,0 0 20px #39FF14;">
 <!-- ======================================================== -->
 <tr>
 <td colspan="3" align="center" style="padding:8px 0;">
-<div style="
-font-size:23px;
-font-weight:800;
-color:#FF00AA;
-padding:6px 0;
-letter-spacing:1px;
-text-shadow:0 0 6px #FF00AA,0 0 12px #FF00AA,0 0 20px #FF00AA;">
-✦ ✦  ACTIVITY GRAPH  ✦ ✦
-</div>
+     <div>
+          ✦ ✦  ACTIVITY GRAPH  ✦ ✦
+     </div>
 </td>
 </tr>
 
@@ -191,15 +130,9 @@ text-shadow:0 0 6px #FF00AA,0 0 12px #FF00AA,0 0 20px #FF00AA;">
 <!-- ======================================================== -->
 <tr>
 <td colspan="3" align="center" style="padding:8px 0;">
-<div style="
-font-size:23px;
-font-weight:800;
-color:#00E7FF;
-padding:6px 0;
-letter-spacing:1px;
-text-shadow:0 0 6px #00E7FF,0 0 12px #00E7FF,0 0 20px #00E7FF;">
-✦ ✦  PROFILE DYNAMICS  ✦ ✦
-</div>
+     <div>
+          ✦ ✦  PROFILE DYNAMICS  ✦ ✦
+     </div>
 </td>
 </tr>
 
@@ -213,7 +146,9 @@ text-shadow:0 0 6px #00E7FF,0 0 12px #00E7FF,0 0 20px #00E7FF;">
 | ![](https://img.shields.io/badge/Snake-AutoRefresh-00E7FF?style=for-the-badge) | Snake |
 
 </td></tr>
-
+<tr>
+<td colspan="3" align="center"></td>
+</tr>
 <!-- ======================================================== -->
 <!--                         FOOTER                            -->
 <!-- ======================================================== -->
