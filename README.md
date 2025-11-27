@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&custom_title=Doidoria%20Analytics" height="175">
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=Doidoria&theme=tokyonight&hide_border=true&ring=6BA4F8&fire=DD2727" height="175">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Doidoria&theme=tokyonight&hide_border=true&ring=6BA4F8&fire=DD2727" height="175"/>
 </td>
 </tr>
 
