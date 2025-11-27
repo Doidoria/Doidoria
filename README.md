@@ -1,88 +1,130 @@
-<!--  --------------------------------------  -->
-<!--              💠 HEADER BANNER           -->
-<!--  --------------------------------------  -->
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:2b2b2b&height=230&text=Doidoria&fontColor=ffffff&animation=twinkling&fontSize=72&fontAlignY=40" />
-  
-  <h3>🌑 Welcome to my Black-Tone GitHub Space 🌑</h3>
-  <p>꾸준히 성장하고, 계속 만들고, 멈추지 않는 개발자</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,100:1a1a1a&text=Doidoria&fontColor=ffffff&fontSize=75&animation=twinkling" />
 
-  <br>
+<b><i style="font-size:18px; background:rgba(255,255,255,0.06); padding:7px 18px; border-radius:10px;">
+🔥 Web • AI • Engineering • Performance
+</i></b>
 
 </div>
 
----
 
-## 🧠 About Me
 
-- 🔥 새로운 기술을 탐구하고 코드로 구현하는 걸 좋아합니다  
-- 🚀 Web · AI · System Flow & Optimization 관심  
-- 🎯 목표: 한 단계 더 발전된 나를 만드는 것  
-- 🐾 기록과 성장을 즐기며 나만의 개발 세계를 확장하는 중  
+<br>
 
----
+<!-- ======================================================= -->
+<!--  SKILLS | PREMIUM CARD TECH STACK  -->
+<!-- ======================================================= -->
 
-## 🛠 Tech Stack
+<h3 align="center">💠 TECH STACK | Premium Skill Cards</h3>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<b>Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=react,next,js,ts,redux,tailwind" width="260"/>
+
+</td>
+<td align="center" width="33%">
+
+<b>Backend / Infra</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,docker,mongodb,redis" width="260"/>
+
+</td>
+<td align="center" width="33%">
+
+<b>DevOps / Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,nginx" width="260"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<br>
+
+<!-- ======================================================= -->
+<!--  STATS + LANG 2-COLUMN PRESTIGE UI -->
+<!-- ======================================================= -->
+
+<h3 align="center">📊 GITHUB PERFORMANCE</h3>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&custom_title=Doidoria%20Analytics" height="175">
+</td>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com?user=Doidoria&theme=tokyonight&hide_border=true&ring=6BA4F8&fire=DD2727" height="175">
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="175">
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doidoria&theme=tokyonight" height="175">
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<br>
+
+<!-- ======================================================= -->
+<!--  TROPHY / SNAKE / GRAPH -->
+<!-- ======================================================= -->
+
+<h3 align="center">🏆 ACHIEVEMENTS & VISUAL TRACKING</h3>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=gitdimmed&margin-w=10&column=6" width="95%">
+</div>
+
+<br>
+
+<h3 align="center">🐍 CONTRIBUTION SNAKE</h3>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Doidoria/Doidoria/output/github-contribution-grid-snake-dark.svg" width="80%">
+</div>
+
+<br>
+
+<h3 align="center">📈 ACTIVITY GRAPH</h3>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doidoria&theme=react-dark&hide_border=true&area=true" width="96%">
+</div>
+
+<br>
+
+<!-- ======================================================= -->
+<!--  BADGES / STATUS / FOLLOW METRICS -->
+<!-- ======================================================= -->
+
+<h3 align="center">🔗 PROFILE DYNAMICS</h3>
 
 <div align="center">
 
-| Category | Stack |
+| Widget | Status |
 |---|---|
-| 📌 Language | ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript) ![TS](https://img.shields.io/badge/TypeScript-000?logo=typescript) |
-| ⚙ Web / App | ![React](https://img.shields.io/badge/React-000?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Node](https://img.shields.io/badge/Node.js-000?logo=node.js) |
-| 🔧 Tools & DevOps | ![Git](https://img.shields.io/badge/Git-000?logo=git) ![Docker](https://img.shields.io/badge/Docker-000?logo=docker) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel) |
+| ![](https://komarev.com/ghpvc/?username=Doidoria&style=for-the-badge&color=grey) | Views |
+| <img src="https://img.shields.io/github/followers/Doidoria?label=Followers&style=for-the-badge&color=blue"> | Follower Count |
+| <img src="https://img.shields.io/github/stars/Doidoria?style=for-the-badge&color=yellow&label=Stars"> | Repo Stars |
+| ![](https://img.shields.io/badge/Snake-AutoRefresh-green?style=for-the-badge) | Live Contribution Animation |
 
 </div>
 
----
-
-## 📊 Stats & Contribution
-
 <div align="center">
-
-### 🔥 GitHub Stats (Dark Tokyo)
-![ stats ](https://github-readme-stats.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github)
-
-### 🌓 Most Used Languages
-![ langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🧬 Trophy Showcase (Dark Premium)
-<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-
-### 🐍 Contribution Snake
-![snake](https://github.com/Doidoria/Doidoria/blob/output/github-contribution-grid-snake.svg)
-
-### 🌙 Profile 3D Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doidoria&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doidoria&theme=tokyonight" width="49.4%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doidoria&theme=tokyonight" width="49.4%" />
-
-### 💠 Contribution Calendar Graph (Shadow Style)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doidoria&theme=react-dark&hide_border=true&area=true" />
-
----
-
-### 🎮 Dynamic & Fun
-
-<img src="https://github.com/Doidoria.png?size=140" align="center" style="border-radius: 50%;" />
-
-> _“Keep creating, keep pushing, keep evolving.”_
-
-</div>
-
----
-
-## 📫 Contact
-
-📥 Email → _your@email.com_  
-🌐 Portfolio → _작성 예정_  
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:171717&height=120&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=130&section=footer">
 </div>
