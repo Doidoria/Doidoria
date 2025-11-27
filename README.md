@@ -7,8 +7,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0A001A,50:7F00FF,100:00F0FF&text=Doidoria&fontColor=E6F7FF&fontSize=75&animation=twinkling"
      width="100%" style="display:block; padding:0; margin:0;"/>
 </td>
-</tr>
-<tr>
+</tr><tr>
+</tr><tr>
 </tr>
 <!-- ======================================================== -->
 <!--                       TECH STACK                         -->
@@ -42,6 +42,7 @@
 <td colspan="3" align="center" style="padding:10px 0;"></td>
 </tr>
 
+
 <!-- ======================================================== -->
 <!--                   GITHUB PERFORMANCE                      -->
 <!-- ======================================================== -->
@@ -62,6 +63,7 @@
     Languages
   </td>
 </tr>
+</tr><tr>
 
 <!-- 콘텐츠도 동일하게 2칸 병합 → 1칸 -->
 <tr>
