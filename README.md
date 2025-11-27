@@ -10,8 +10,6 @@
 
 </div>
 
-
-
 <br>
 
 <!-- ======================================================= -->
@@ -26,19 +24,19 @@
 <td align="center" width="33%">
 
 <b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,next,js,ts,redux,tailwind" width="260"/>
+<img src="https://skillicons.dev/icons?i=react,javascript,scss,html,css" width="260"/>
 
 </td>
 <td align="center" width="33%">
 
 <b>Backend / Infra</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,docker,mongodb,redis" width="260"/>
+<img src="https://skillicons.dev/icons?i=spring,java,mysql,redis" width="260"/>
 
 </td>
 <td align="center" width="33%">
 
 <b>DevOps / Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel,nginx" width="260"/>
+<img src="https://skillicons.dev/icons?i=python,docker,aws,nginx,jenkins" width="260"/>
 
 </td>
 </tr>
