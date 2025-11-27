@@ -16,30 +16,32 @@
 <!--  SKILLS | PREMIUM CARD TECH STACK  -->
 <!-- ======================================================= -->
 
-<h3 align="center">💠 TECH STACK | Premium Skill Cards</h3>
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" colspan="3" style="border:none;">
+      <h3>💠 TECH STACK | Premium Skill Cards</h3>
+    </td>
+  </tr>
 
-<table>
-<tr>
-<td align="center" width="33%">
+  <!-- ====== 제목 줄 ====== -->
+  <tr>
+    <th align="center" width="33%">Frontend</th>
+    <th align="center" width="33%">Backend / Infra</th>
+    <th align="center" width="33%">DevOps / Tools</th>
+  </tr>
 
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,javascript,scss,html,css" width="260"/>
-
-</td>
-<td align="center" width="33%">
-
-<b>Backend / Infra</b><br>
-<img src="https://skillicons.dev/icons?i=spring,java,mysql,redis" width="260"/>
-
-</td>
-<td align="center" width="33%">
-
-<b>DevOps / Tools</b><br>
-<img src="https://skillicons.dev/icons?i=python,docker,aws,nginx,jenkins" width="260"/>
-
-</td>
-</tr>
+  <!-- ====== 아이콘 줄 ====== -->
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js,sass,html,css" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,java,mysql,redis" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,docker,aws,nginx,jenkins" height="45" />
+    </td>
+  </tr>
 </table>
 
 </div>
