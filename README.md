@@ -9,7 +9,6 @@
 </td>
 </tr>
 <tr>
-<td colspan="3" align="center"></td>
 </tr>
 <!-- ======================================================== -->
 <!--                       TECH STACK                         -->
@@ -145,15 +144,7 @@
 | <img src="https://img.shields.io/github/stars/Doidoria?style=for-the-badge&color=39FF14&label=Stars"> | Stars |
 | ![](https://img.shields.io/badge/Snake-AutoRefresh-00E7FF?style=for-the-badge) | Snake |
 
-</td></tr>
-<tr>
-<td colspan="3" align="center"></td>
-</tr>
-<!-- ======================================================== -->
-<!--                         FOOTER                            -->
-<!-- ======================================================== -->
-<tr>
-<td colspan="3" align="center" style="padding:0; margin:0;">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A001A,50:7F00FF,100:00F0FF&height=130&section=footer"
      width="100%" style="display:block; padding:0; margin:0;"/>
