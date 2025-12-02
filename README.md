@@ -75,6 +75,11 @@
   </td>
 </tr>
 
+<img src="https://github-readme-stats-one-dora-90.vercel.app/api/top-langs?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&v=1">
+<td colspan="2" align="center" style="padding:10px 0;">
+    <img src="https://github-readme-stats-one-dora-90.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&v=1" height="170">
+</td>
+
 <!-- ======================================================== -->
 <!--                      ACHIEVEMENTS                         -->
 <!-- ======================================================== -->
