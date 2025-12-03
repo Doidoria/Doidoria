@@ -67,12 +67,16 @@
 
 <!-- 콘텐츠도 동일하게 2칸 병합 → 1칸 -->
 <tr>
-  <td colspan="2" align="center" style="padding:10px 0;">
-    <img src="https://github-readme-stats-one-dora-90.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&v=1">
-  </td>
-  <td align="center" style="padding:10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" height="170">
-  </td>
+     <td colspan="2" align="center">
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+               <img src="https://github-readme-stats-blush-phi-28.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true" alt="Doidoria's GitHub Stats" />
+          </a>
+     </td>
+     <td align="center">
+           <a href="https://github.com/anuraghazra/github-readme-stats">
+               <img src="https://github-readme-stats-blush-phi-28.vercel.app/api/top-langs/?username=Doidoria&layout=compact&theme=tokyonight&hide_border=true" alt="Doidoria's Top Languages" />
+          </a>
+     </td>
 </tr>
 
 <!-- ======================================================== -->
