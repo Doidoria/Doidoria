@@ -1,3 +1,5 @@
+
+
 <table align="center" width="100%" style="border-collapse:collapse; margin:0; padding:0;">
 
 <!-- ====================== HEADER ====================== -->
@@ -92,7 +94,7 @@
 
 <tr>
 <td colspan="3" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=gitdimmed&margin-w=10&column=6" width="95%">
+<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=gitdimmed&margin-w=10&column=8" width="95%">
 </td>
 </tr>
 
