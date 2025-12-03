@@ -67,7 +67,7 @@
 
 <!-- 콘텐츠도 동일하게 2칸 병합 → 1칸 -->
 <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-blush-phi-28.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true" alt="Doidoria's GitHub Stats" />
       </a>
