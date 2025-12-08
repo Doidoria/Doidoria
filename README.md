@@ -98,7 +98,7 @@
 
 <tr>
 <td colspan="3" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Doidoria&theme=gitdimmed&margin-w=10&column=9" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doidoria&theme=tokyonight" />
 </td>
 </tr>
 
