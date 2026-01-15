@@ -75,7 +75,7 @@
 <tr>
   <td colspan="2" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-blush-phi-28.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true" alt="Doidoria's GitHub Stats" />
+      <img src="https://github-readme-stats-blush-phi-28.vercel.app/api?username=Doidoria&theme=tokyonight&show_icons=true&hide_border=true&v=1" alt="Doidoria's GitHub Stats"/>
     </a>
   </td>
   <td align="center">
